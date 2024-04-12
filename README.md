@@ -40,7 +40,7 @@ Provide detailed instructions on how to use the models, including example script
 Contributions to this project are welcome. Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
 
 ## License
-This project is licensed under the [Your License Name] - see the `LICENSE` file for details.
+This project is licensed under the [JAYANTHA NANDURI] - see the `LICENSE` file for details.
 
 ## Acknowledgements
 - Facebook AI Research Team for providing the dataset.
